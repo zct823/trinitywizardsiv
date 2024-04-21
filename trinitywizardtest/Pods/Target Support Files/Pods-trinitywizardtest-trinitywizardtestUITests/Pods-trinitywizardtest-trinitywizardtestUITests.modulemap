@@ -1,0 +1,6 @@
+framework module Pods_trinitywizardtest_trinitywizardtestUITests {
+  umbrella header "Pods-trinitywizardtest-trinitywizardtestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
