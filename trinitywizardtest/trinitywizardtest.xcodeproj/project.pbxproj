@@ -18,6 +18,18 @@
 		E6BA034C2BD4947300F3B5FF /* trinitywizardtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA034B2BD4947300F3B5FF /* trinitywizardtestTests.swift */; };
 		E6BA03562BD4947300F3B5FF /* trinitywizardtestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03552BD4947300F3B5FF /* trinitywizardtestUITests.swift */; };
 		E6BA03582BD4947300F3B5FF /* trinitywizardtestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03572BD4947300F3B5FF /* trinitywizardtestUITestsLaunchTests.swift */; };
+		E6BA036A2BD4B87800F3B5FF /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = E6BA03692BD4B87800F3B5FF /* data.json */; };
+		E6BA036C2BD4B8BC00F3B5FF /* ContactData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA036B2BD4B8BC00F3B5FF /* ContactData.swift */; };
+		E6BA03732BD4B92F00F3B5FF /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03722BD4B92F00F3B5FF /* LoginVC.swift */; };
+		E6BA03752BD4B98000F3B5FF /* StoryboardInits.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03742BD4B98000F3B5FF /* StoryboardInits.swift */; };
+		E6BA03772BD4BAE800F3B5FF /* Themes.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03762BD4BAE800F3B5FF /* Themes.swift */; };
+		E6BA03812BD4BD6000F3B5FF /* LoginVCC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03802BD4BD6000F3B5FF /* LoginVCC.swift */; };
+		E6BA03832BD4C6D900F3B5FF /* ContactRetrieve.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03822BD4C6D900F3B5FF /* ContactRetrieve.swift */; };
+		E6BA03852BD4C90900F3B5FF /* MyContactsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03842BD4C90900F3B5FF /* MyContactsVC.swift */; };
+		E6BA03872BD4C96000F3B5FF /* MainTabVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03862BD4C96000F3B5FF /* MainTabVC.swift */; };
+		E6BA038A2BD4CA7200F3B5FF /* MyContactsLists.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA03892BD4CA7200F3B5FF /* MyContactsLists.swift */; };
+		E6BA038C2BD4D05E00F3B5FF /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA038B2BD4D05E00F3B5FF /* ProfileViewController.swift */; };
+		E6BA038F2BD4D0B100F3B5FF /* MyProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BA038E2BD4D0B100F3B5FF /* MyProfileVC.swift */; };
 		F34487A606D47C6491B19F2A /* Pods_trinitywizardtestTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 681AE97E0178670F9BF0FB37 /* Pods_trinitywizardtestTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +73,18 @@
 		E6BA03512BD4947300F3B5FF /* trinitywizardtestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trinitywizardtestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6BA03552BD4947300F3B5FF /* trinitywizardtestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trinitywizardtestUITests.swift; sourceTree = "<group>"; };
 		E6BA03572BD4947300F3B5FF /* trinitywizardtestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trinitywizardtestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E6BA03692BD4B87800F3B5FF /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		E6BA036B2BD4B8BC00F3B5FF /* ContactData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactData.swift; sourceTree = "<group>"; };
+		E6BA03722BD4B92F00F3B5FF /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		E6BA03742BD4B98000F3B5FF /* StoryboardInits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryboardInits.swift; sourceTree = "<group>"; };
+		E6BA03762BD4BAE800F3B5FF /* Themes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Themes.swift; sourceTree = "<group>"; };
+		E6BA03802BD4BD6000F3B5FF /* LoginVCC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVCC.swift; sourceTree = "<group>"; };
+		E6BA03822BD4C6D900F3B5FF /* ContactRetrieve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactRetrieve.swift; sourceTree = "<group>"; };
+		E6BA03842BD4C90900F3B5FF /* MyContactsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyContactsVC.swift; sourceTree = "<group>"; };
+		E6BA03862BD4C96000F3B5FF /* MainTabVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabVC.swift; sourceTree = "<group>"; };
+		E6BA03892BD4CA7200F3B5FF /* MyContactsLists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyContactsLists.swift; sourceTree = "<group>"; };
+		E6BA038B2BD4D05E00F3B5FF /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		E6BA038E2BD4D0B100F3B5FF /* MyProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +140,11 @@
 		E6BA03332BD4947000F3B5FF /* trinitywizardtest */ = {
 			isa = PBXGroup;
 			children = (
+				E6BA03692BD4B87800F3B5FF /* data.json */,
+				E6BA03682BD4B81E00F3B5FF /* Controller */,
+				E6BA03672BD4B81500F3B5FF /* Model */,
+				E6BA03662BD4B81100F3B5FF /* View */,
+				E6BA03652BD4B80500F3B5FF /* ViewModel */,
 				E6BA03342BD4947000F3B5FF /* AppDelegate.swift */,
 				E6BA03362BD4947000F3B5FF /* SceneDelegate.swift */,
 				E6BA03382BD4947000F3B5FF /* ViewController.swift */,
@@ -144,6 +173,93 @@
 			path = trinitywizardtestUITests;
 			sourceTree = "<group>";
 		};
+		E6BA03652BD4B80500F3B5FF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
+		E6BA03662BD4B81100F3B5FF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA03862BD4C96000F3B5FF /* MainTabVC.swift */,
+				E6BA03702BD4B90100F3B5FF /* Profile */,
+				E6BA036E2BD4B8EB00F3B5FF /* Main */,
+				E6BA036D2BD4B8E400F3B5FF /* Login */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		E6BA03672BD4B81500F3B5FF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA036B2BD4B8BC00F3B5FF /* ContactData.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		E6BA03682BD4B81E00F3B5FF /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA038D2BD4D09700F3B5FF /* MyProfile */,
+				E6BA03882BD4CA4500F3B5FF /* MyContacts */,
+				E6BA037F2BD4BD4600F3B5FF /* Login */,
+				E6BA03742BD4B98000F3B5FF /* StoryboardInits.swift */,
+				E6BA03762BD4BAE800F3B5FF /* Themes.swift */,
+				E6BA03822BD4C6D900F3B5FF /* ContactRetrieve.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		E6BA036D2BD4B8E400F3B5FF /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA03722BD4B92F00F3B5FF /* LoginVC.swift */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		E6BA036E2BD4B8EB00F3B5FF /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA03842BD4C90900F3B5FF /* MyContactsVC.swift */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		E6BA03702BD4B90100F3B5FF /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA038B2BD4D05E00F3B5FF /* ProfileViewController.swift */,
+			);
+			name = Profile;
+			sourceTree = "<group>";
+		};
+		E6BA037F2BD4BD4600F3B5FF /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA03802BD4BD6000F3B5FF /* LoginVCC.swift */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		E6BA03882BD4CA4500F3B5FF /* MyContacts */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA03892BD4CA7200F3B5FF /* MyContactsLists.swift */,
+			);
+			name = MyContacts;
+			sourceTree = "<group>";
+		};
+		E6BA038D2BD4D09700F3B5FF /* MyProfile */ = {
+			isa = PBXGroup;
+			children = (
+				E6BA038E2BD4D0B100F3B5FF /* MyProfileVC.swift */,
+			);
+			name = MyProfile;
+			sourceTree = "<group>";
+		};
 		FC73D70DE2822025DDBDE848 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -164,7 +280,6 @@
 				0B93CD35A6D25FC640273939 /* Pods-trinitywizardtestTests.debug.xcconfig */,
 				35FCB584E440D563ED967433 /* Pods-trinitywizardtestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -278,6 +393,7 @@
 				E6BA03412BD4947300F3B5FF /* LaunchScreen.storyboard in Resources */,
 				E6BA033E2BD4947300F3B5FF /* Assets.xcassets in Resources */,
 				E6BA033C2BD4947000F3B5FF /* Main.storyboard in Resources */,
+				E6BA036A2BD4B87800F3B5FF /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,9 +487,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E6BA03852BD4C90900F3B5FF /* MyContactsVC.swift in Sources */,
+				E6BA03772BD4BAE800F3B5FF /* Themes.swift in Sources */,
+				E6BA03832BD4C6D900F3B5FF /* ContactRetrieve.swift in Sources */,
+				E6BA038C2BD4D05E00F3B5FF /* ProfileViewController.swift in Sources */,
+				E6BA03812BD4BD6000F3B5FF /* LoginVCC.swift in Sources */,
 				E6BA03392BD4947000F3B5FF /* ViewController.swift in Sources */,
+				E6BA038A2BD4CA7200F3B5FF /* MyContactsLists.swift in Sources */,
 				E6BA03352BD4947000F3B5FF /* AppDelegate.swift in Sources */,
+				E6BA03872BD4C96000F3B5FF /* MainTabVC.swift in Sources */,
+				E6BA03752BD4B98000F3B5FF /* StoryboardInits.swift in Sources */,
+				E6BA036C2BD4B8BC00F3B5FF /* ContactData.swift in Sources */,
+				E6BA038F2BD4D0B100F3B5FF /* MyProfileVC.swift in Sources */,
 				E6BA03372BD4947000F3B5FF /* SceneDelegate.swift in Sources */,
+				E6BA03732BD4B92F00F3B5FF /* LoginVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
